@@ -1,0 +1,155 @@
+h1{
+	color: gold;
+	text-align: center;	
+}
+ul.menu>li{
+	display: inline;
+}
+ul.menu{
+	background-color: black;
+	text-align: center;
+	padding: 10px;
+}
+li{
+	margin:10px;
+	font-size: 27px;
+	font-style: italic;
+
+}
+a{
+	text-decoration: none;
+	color: green;
+}
+a:hover{
+	color: red;
+}
+#wrapper {
+	    width:68%;
+	    height:420px;
+		float: right;
+		padding: 0px 150px;
+}
+
+.col1,.col2,.col3{
+	width: 28%;
+	height:380px;
+	border:1px solid black;
+	margin:8px;
+	float:left;
+}
+.Arrowone{
+	width: 100%;
+	height:50px;
+	border: 1px solid black;
+}
+.Arrowtwo{
+	width: 100%;
+	height: 280px;
+	border: 1px solid black;
+}
+
+.inner-one{
+	width: 75%;
+	height:280px;
+	border: 1px solid black;
+}
+.small-inner1{
+	width: 100%;
+	height: 200px;
+	border:1px solid black;
+
+}
+.small-inner2{
+    width: 100%;
+	height: 75px;
+	border:1px solid black;
+
+}
+.smaller-inner{
+	width: 75%;
+	height:75px;
+	border:1px solid black;
+}
+
+.Browone{
+	width: 100%;
+	height:50px;
+	border: 1px solid black;
+}
+.Browtwo{
+	width: 100%;
+	height: 280px;
+	border: 1px solid black;
+}
+.small{
+	width: 74%;
+	height: 220px;
+	border: 1px solid black;
+	float: right;
+	margin-top: 52px
+}
+
+.inner1{
+	width:25%;
+	height:280px;
+	border:1px solid black;
+}
+
+.Crow1 {
+	width: 99%;
+	height: 50px;
+	border: 1px solid black; 
+}
+.Crow2{
+	width: 99%;
+	height: 25px;
+	border: 1px solid black;
+}
+.Crow3{
+	width: 99%;
+	height: 270px;
+	border: 1px solid black;
+	float: right;
+}
+.inner-1{
+	width: 75%;
+	height: 297px;
+	border: 1px solid black;
+}
+.inner-2{
+	width: 24%
+	height:200px;
+	border: 1px solid black;
+
+}
+
+.small-inn{
+	width: 25%;
+	height: 80px;
+	border: 1px solid black;
+}
+
+.small-inn1{
+	width: 24%;
+	height: 90px;
+	border: 1px solid black;
+	float: right;
+
+}
+.small-inn2{
+	width: 100%;
+	height: 170px;
+	border: 1px solid black;
+}
+
+
+
+
+
+
+
+
+
+
+
+li
